@@ -1,4 +1,3 @@
-# Saranya_15
 <h1 align="center">Hi 👋, I'm Saranya Madala</h1>
 <h3 align="center">👩‍💻 Graduate Student | Passionate Developer | AWS Certified | Machine Learning Enthusiast</h3>
 
@@ -20,12 +19,10 @@
 ### 🛠️ Skills & Technologies
 
 - **Languages:** Python, Java  
-- **Databases:** SQL, DBMS, MySQL Workbench  
-- **Web Dev:** HTML, CSS  
-- **Frameworks/Tools:** React, Streamlit, Selenium, BeautifulSoup, Spark, Git, Jira  
-- **ML & Data:** Machine Learning, Data Analysis, Predictive Modeling  
-- **Cloud:** AWS (Azure Certified - Admin & Data Engineer)  
-- **Others:** Linux, Ubuntu, VS Code  
+- **Databases:** SQL, MySQL, MongoDB  
+- **Web Dev:** HTML, CSS, React, Vite  
+- **Machine Learning:** Predictive Modeling, Data Analysis  
+- **Others:** Selenium, BeautifulSoup, Git, GitHub, Linux, Ubuntu, System Design  
 
 ---
 
@@ -51,23 +48,28 @@ Automates job notifications to users daily, streamlining job search.
 
 ### 💡 Data Structures & Algorithms
 
-I actively practice and solve DSA problems on platforms like LeetCode and HackerRank.  
-📌 Focusing on:
-- Problem-solving patterns  
-- Optimized search and sort  
-- Dynamic Programming  
-- Tree and Graph algorithms  
+I actively solve DSA problems and improve my problem-solving skills through:
+- Arrays, Linked Lists, Trees, Graphs  
+- Recursion, Dynamic Programming, Sliding Window  
+- Interview prep through platforms like LeetCode, HackerRank  
 
 ---
 
 ### 🧰 Tools I Use
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/System%20Design-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
