@@ -2,7 +2,7 @@
 <h3 align="center">👩‍💻 Graduate Student | Passionate Developer | AWS Certified | Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://raw.githubusercontent.com/SaranyaM15/SaranyaM15/main/assets/girl-working.png" width="300" />
 </p>
 
 ---
