@@ -24,27 +24,140 @@
 - **Machine Learning:** Predictive Modeling, Data Analysis  
 - **Others:** Selenium, BeautifulSoup, Git, GitHub, Linux, Ubuntu, System Design  
 
+
+# 🌟 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎓 EduPath AI
+
+Production-grade RAG platform for educational guidance and personalized learning.
+
+**Highlights**
+- LangChain-powered RAG pipeline
+- Pinecone Vector Database
+- OpenAI Embeddings
+- Groq-hosted LLMs
+- Redis Caching
+- Apache Kafka Event Streaming
+- Cohere Reranking
+
+**Impact**
+⚡ Sub-600ms response latency
+
+🎯 35% reduction in irrelevant retrievals
+
+💰 40% fewer redundant LLM API calls
+
+**Tech Stack**
+Python • FastAPI • LangChain • OpenAI • Groq • Pinecone • PostgreSQL • Redis • Kafka
+
+</td>
+
+<td width="50%">
+
+### 🤖 Spectr.io
+
+Agentic AI platform for autonomous system design reviews.
+
+**Highlights**
+- Multi-step reasoning workflows
+- Anthropic API integration
+- MCP Server implementation
+- Function Calling
+- Tool Orchestration
+- AWS Deployment
+
+**Tech Stack**
+Python • FastAPI • React • Anthropic API • MCP • AWS EC2 • S3 • CloudFront
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🔍 TraceSense
+
+Distributed observability platform using semantic log correlation.
+
+**Highlights**
+- SBERT embeddings
+- ChromaDB vector search
+- Hybrid retrieval architecture
+- Semantic log analysis
+- Distributed debugging workflows
+
+**Tech Stack**
+Python • FastAPI • React • SBERT • ChromaDB • Hugging Face Transformers
+
+</td>
+
+<td width="50%">
+
+### 🚗 Traffic Accident Severity Estimator
+
+Multimodal Deep Learning system for accident severity prediction.
+
+**Highlights**
+- Vision Transformer (ViT-B/16)
+- Custom Attention Pooling
+- 2.8M+ training records
+- Multimodal fusion architecture
+
+**Results**
+🎯 86% Accuracy
+
+📈 18% improvement in minority-class F1 score
+
+**Tech Stack**
+Python • PyTorch • Vision Transformer • Hugging Face • NumPy
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-### 📊 Projects Highlights
+### 🚀 Additional Projects
 
-#### 🚀 [SafePath – Multilingual Navigation & Chatbot System](https://github.com/SaranyaM15/SafePath)
-*Tech Stack:* React, Google Translate API, JavaScript  
-Built during GrandInnoHack 2025. A real-time multilingual assistant that guides users in their regional language.
+#### 🌎 SafePath – GrandInnoHack 2025 Winner
 
-#### 🧠 [Multiple Disease Prediction System](https://github.com/SaranyaM15/Disease-Predictor)
-*Tech Stack:* Streamlit, Machine Learning  
-Predicts diabetes, heart disease, and Parkinson's with 85%+ accuracy. Encourages early intervention.
+Multilingual navigation assistant helping users interact in regional languages.
 
-#### 📈 [FIFA Player Performance Analysis](https://github.com/SaranyaM15/FIFA-Analysis)
-*Tech Stack:* Python, Pandas, ML  
-Enhanced player scouting by analyzing performance metrics, resulting in a 15% efficiency boost.
-
-#### 🤖 [Telegram Application Assistant Bot](https://github.com/SaranyaM15/Telegram-Job-Bot)
-*Tech Stack:* Python, Telebot  
-Automates job notifications to users daily, streamlining job search.
+**Tech Stack**
+React • JavaScript • Google Translate API
 
 ---
+
+#### 🧠 Multiple Disease Prediction System
+
+Machine Learning healthcare application predicting:
+- Diabetes
+- Heart Disease
+- Parkinson's Disease
+
+**Tech Stack**
+Python • Streamlit • Machine Learning
+
+---
+
+#### 📬 Telegram Job Assistant Bot
+
+Automated job alert platform delivering opportunities directly to users.
+
+**Tech Stack**
+Python • Telegram Bot API
+
+---
+```
+
 
 ### 💡 Data Structures & Algorithms
 
