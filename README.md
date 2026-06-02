@@ -265,22 +265,7 @@ Automated job alert platform delivering opportunities directly to users.
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaranyaM15&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranyaM15&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## ⚡ GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaranyaM15&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🏆 Certifications
 
